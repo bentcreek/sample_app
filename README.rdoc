@@ -1,0 +1,3 @@
+== README
+
+This is the sample application for the Ruby on Rails tutorial by Michael Hartl
